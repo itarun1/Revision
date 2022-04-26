@@ -1,0 +1,44 @@
+{
+  "Details": [
+    {
+      "name": "Tarun Kumar Bhardwaj",
+      "roll": "2",
+      "course": "B.sc",
+      "year": "third",
+      "status": "pass",
+      "id": 1
+    },
+    {
+      "name": "Tarun Kumar Bhardwaj",
+      "roll": "2",
+      "course": "B.sc",
+      "year": "third",
+      "status": "pass",
+      "id": 2
+    },
+    {
+      "name": "hhh",
+      "roll": "3",
+      "course": "B.sc",
+      "year": "second",
+      "status": "fail",
+      "id": 3
+    },
+    {
+      "name": "web 14",
+      "roll": "5",
+      "course": "B.sc",
+      "year": "second",
+      "status": "fail",
+      "id": 4
+    },
+    {
+      "name": "t",
+      "roll": "1",
+      "course": "B.sc",
+      "year": "second",
+      "status": "pass",
+      "id": 5
+    }
+  ]
+}
